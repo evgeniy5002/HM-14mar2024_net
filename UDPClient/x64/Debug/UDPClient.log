@@ -1,0 +1,4 @@
+﻿  Client.cpp
+C:\Users\KIKIMORA\Desktop\UDPMulticast\UDPClient\Client.cpp(64,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\KIKIMORA\Desktop\UDPMulticast\UDPClient\Client.cpp(178,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  UDPClient.vcxproj -> C:\Users\KIKIMORA\Desktop\UDPMulticast\x64\Debug\UDPClient.exe
